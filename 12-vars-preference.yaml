@@ -16,3 +16,4 @@
     ansible.builtin.debug:
       msg: "Hello from {{ GREET }}"
 
+#1. Command line or args
